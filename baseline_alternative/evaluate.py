@@ -24,7 +24,7 @@ def annotate_image(img_path, result, out_path):
     cv2.imwrite(out_path, img)
 
 def main():
-    print('--- Evaluator Simulation for BT2024084 ---')
+    print('--- Evaluator Simulation for baseline_alternative ---')
     print('1. Loading Detector (Loading Depth-Anything, YOLO, PaddleOCR)...')
     t0 = time.time()
     detector = TrafficViolationDetector(model_dir='./models')

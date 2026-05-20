@@ -79,7 +79,7 @@ class TrafficViolationDetector:
     # ── Model discovery ───────────────────────────────────────────────────────
     _SEARCH_ROOTS = [
         "models",
-        "../BT2024225/models",
+        "../baseline_divy_dilksh/models",
         "../models",
     ]
 

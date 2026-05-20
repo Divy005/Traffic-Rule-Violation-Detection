@@ -14,7 +14,7 @@ Detects: **helmet non-compliance**, **triple riding (>2 riders)**, and **license
 
 ## Folder Structure
 ```
-BT2024225_BT2024253/
+baseline_divy_dilksh/
 ├── solution.py          ← TrafficViolationDetector class (evaluator entry point)
 ├── requirements.txt     ← Pinned dependency versions
 ├── report.tex           ← LaTeX source of project report
