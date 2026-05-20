@@ -1,0 +1,46 @@
+# requirements.txt — AID 728 Traffic Rule Violation Detection
+# Install with: pip install -r requirements.txt
+
+# ── Core ML / Vision ─────────────────────────────────────────────────────────
+torch==2.12.0
+torchvision==0.27.0
+numpy==1.26.4
+Pillow==12.2.0
+
+# ── OpenCV ────────────────────────────────────────────────────────────────────
+opencv-python==4.11.0.86
+
+# ── Object Detection ──────────────────────────────────────────────────────────
+ultralytics==8.4.51
+dill==0.4.1
+
+# ── Depth Estimation ──────────────────────────────────────────────────────────
+transformers==5.8.1
+huggingface_hub==1.15.0
+safetensors==0.7.0
+tokenizers==0.22.2
+
+# ── OCR (PaddleOCR 3.5.0 + PaddlePaddle) ─────────────────────────────────────
+paddlepaddle==3.3.1
+paddleocr==3.5.0
+
+# ── PaddleOCR transitive deps ─────────────────────────────────────────────────
+pyclipper==1.4.0
+shapely==2.1.2
+lmdb==2.2.0
+imgaug==0.4.0
+scikit-image==0.25.2
+python-docx==1.2.0
+fire==0.7.1
+beautifulsoup4==4.14.3
+lxml==6.1.0
+RapidFuzz==3.14.5
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+requests==2.34.2
+tqdm==4.67.3
+PyYAML==6.0.2
+regex==2026.5.9
+scipy==1.15.3
+packaging==26.2
+filelock==3.29.0

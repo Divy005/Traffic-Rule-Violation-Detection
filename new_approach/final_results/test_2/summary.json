@@ -1,0 +1,88 @@
+[
+  {
+    "image": "WhatsApp Image 2026-05-16 at 12.22.49 PM (1).jpeg",
+    "result": {
+      "violations": [
+        {
+          "num_riders": 2,
+          "helmet_violations": 2,
+          "license_plate": "DL75AF8144"
+        }
+      ]
+    }
+  },
+  {
+    "image": "WhatsApp Image 2026-05-16 at 12.22.49 PM.jpeg",
+    "result": {
+      "violations": [
+        {
+          "num_riders": 3,
+          "helmet_violations": 1,
+          "license_plate": "GJ01SX2451"
+        }
+      ]
+    }
+  },
+  {
+    "image": "WhatsApp Image 2026-05-16 at 12.22.50 PM (1).jpeg",
+    "result": {
+      "violations": [
+        {
+          "num_riders": 2,
+          "helmet_violations": 2,
+          "license_plate": null
+        },
+        {
+          "num_riders": 2,
+          "helmet_violations": 1,
+          "license_plate": null
+        },
+        {
+          "num_riders": 1,
+          "helmet_violations": 1,
+          "license_plate": null
+        },
+        {
+          "num_riders": 2,
+          "helmet_violations": 2,
+          "license_plate": null
+        },
+        {
+          "num_riders": 1,
+          "helmet_violations": 1,
+          "license_plate": null
+        }
+      ]
+    }
+  },
+  {
+    "image": "WhatsApp Image 2026-05-16 at 12.22.50 PM (2).jpeg",
+    "result": {
+      "violations": [
+        {
+          "num_riders": 1,
+          "helmet_violations": 1,
+          "license_plate": "AP2861"
+        }
+      ]
+    }
+  },
+  {
+    "image": "WhatsApp Image 2026-05-16 at 12.22.50 PM.jpeg",
+    "result": {
+      "violations": [
+        {
+          "num_riders": 2,
+          "helmet_violations": 1,
+          "license_plate": null
+        }
+      ]
+    }
+  },
+  {
+    "image": "WhatsApp Image 2026-05-16 at 12.22.51 PM.jpeg",
+    "result": {
+      "violations": []
+    }
+  }
+]

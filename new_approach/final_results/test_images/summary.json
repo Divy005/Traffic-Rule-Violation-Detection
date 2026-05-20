@@ -1,0 +1,176 @@
+[
+  {
+    "image": "2 - Copy.jpg",
+    "result": {
+      "violations": [
+        {
+          "num_riders": 1,
+          "helmet_violations": 1,
+          "license_plate": "D7459602"
+        }
+      ]
+    }
+  },
+  {
+    "image": "2.jpg",
+    "result": {
+      "violations": [
+        {
+          "num_riders": 1,
+          "helmet_violations": 1,
+          "license_plate": "D7459602"
+        }
+      ]
+    }
+  },
+  {
+    "image": "BikesHelmets120_png.rf.d4263e22b09d64d9dffddd84b059f63e - Copy.jpg",
+    "result": {
+      "violations": []
+    }
+  },
+  {
+    "image": "BikesHelmets120_png.rf.d4263e22b09d64d9dffddd84b059f63e.jpg",
+    "result": {
+      "violations": []
+    }
+  },
+  {
+    "image": "BikesHelmets122_png.rf.741af70f3f439de00ae9a3603a3eefdc - Copy.jpg",
+    "result": {
+      "violations": [
+        {
+          "num_riders": 1,
+          "helmet_violations": 1,
+          "license_plate": null
+        }
+      ]
+    }
+  },
+  {
+    "image": "BikesHelmets122_png.rf.741af70f3f439de00ae9a3603a3eefdc.jpg",
+    "result": {
+      "violations": [
+        {
+          "num_riders": 1,
+          "helmet_violations": 1,
+          "license_plate": null
+        }
+      ]
+    }
+  },
+  {
+    "image": "BikesHelmets158_png.rf.1d59ac2c06feed624ef68d0846620ce7 - Copy.jpg",
+    "result": {
+      "violations": []
+    }
+  },
+  {
+    "image": "BikesHelmets158_png.rf.1d59ac2c06feed624ef68d0846620ce7.jpg",
+    "result": {
+      "violations": []
+    }
+  },
+  {
+    "image": "download1.jpg",
+    "result": {
+      "violations": []
+    }
+  },
+  {
+    "image": "helmet-motorcycle-pedro__06001MFS10273-000010-2207151001420101_jpg.rf.0bbfc0339e6ab4de69a7b090cd546e6e.jpg",
+    "result": {
+      "violations": []
+    }
+  },
+  {
+    "image": "helmet-motorcycle-pedro__06001MFS10273-000012-2207151013310201_jpg.rf.2864dc9ade25f505b8b8328fbf1b2d4d.jpg",
+    "result": {
+      "violations": []
+    }
+  },
+  {
+    "image": "images.jpg",
+    "result": {
+      "violations": [
+        {
+          "num_riders": 1,
+          "helmet_violations": 1,
+          "license_plate": null
+        }
+      ]
+    }
+  },
+  {
+    "image": "images1.jpg",
+    "result": {
+      "violations": []
+    }
+  },
+  {
+    "image": "Screenshot 2026-05-14 101652.png",
+    "result": {
+      "violations": []
+    }
+  },
+  {
+    "image": "Screenshot 2026-05-14 210730.png",
+    "result": {
+      "violations": [
+        {
+          "num_riders": 1,
+          "helmet_violations": 1,
+          "license_plate": "6550V8"
+        }
+      ]
+    }
+  },
+  {
+    "image": "Screenshot 2026-05-15 214952.png",
+    "result": {
+      "violations": []
+    }
+  },
+  {
+    "image": "Screenshot 2026-05-15 215003.png",
+    "result": {
+      "violations": []
+    }
+  },
+  {
+    "image": "WhatsApp Image 2026-05-14 at 5.12.13 PM.jpeg",
+    "result": {
+      "violations": [
+        {
+          "num_riders": 1,
+          "helmet_violations": 1,
+          "license_plate": "DL5AE190"
+        }
+      ]
+    }
+  },
+  {
+    "image": "WhatsApp Image 2026-05-14 at 9.40.32 PM.jpeg",
+    "result": {
+      "violations": [
+        {
+          "num_riders": 1,
+          "helmet_violations": 1,
+          "license_plate": "AE4623K101"
+        }
+      ]
+    }
+  },
+  {
+    "image": "WhatsApp Image 2026-05-14 at 9.41.15 PM.jpeg",
+    "result": {
+      "violations": []
+    }
+  },
+  {
+    "image": "WhatsApp Image 2026-05-14 at 9.41.43 PM.jpeg",
+    "result": {
+      "violations": []
+    }
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "violations": [
+    {
+      "num_riders": 2,
+      "helmet_violations": 2,
+      "license_plate": null
+    },
+    {
+      "num_riders": 2,
+      "helmet_violations": 1,
+      "license_plate": null
+    },
+    {
+      "num_riders": 1,
+      "helmet_violations": 1,
+      "license_plate": null
+    },
+    {
+      "num_riders": 2,
+      "helmet_violations": 1,
+      "license_plate": null
+    },
+    {
+      "num_riders": 1,
+      "helmet_violations": 1,
+      "license_plate": null
+    }
+  ]
+}

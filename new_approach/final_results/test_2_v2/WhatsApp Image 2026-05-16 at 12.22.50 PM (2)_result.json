@@ -1,0 +1,14 @@
+{
+  "violations": [
+    {
+      "num_riders": 1,
+      "helmet_violations": 1,
+      "license_plate": "AP2861"
+    },
+    {
+      "num_riders": 2,
+      "helmet_violations": 1,
+      "license_plate": "AP2861"
+    }
+  ]
+}
