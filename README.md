@@ -23,14 +23,6 @@ Highly precise tracking of multiple riders and instant detection of helmet infra
 Robust identification of standard high-security registration plates (HSRP) with offline OCR character mapping:
 ![License Plate Capture](demo_results/annotated_WhatsApp%20Image%202026-05-14%20at%209.40.32%20PM.jpg)
 
-### 3. Helmetless Rider Isolation & Annotation
-Dynamic overlay classification tracking helmet status in dense environment segments:
-![Helmetless Rider Isolation](demo_results/annotated_BikesHelmets122_png.rf.741af70f3f439de00ae9a3603a3eefdc.jpg)
-
-### 4. Direct Visual Overlay & Banners
-Luminous red warnings indicating `!! HELMET VIOLATION !!` for immediate recognition:
-![Direct Overlay Warnings](demo_results/annotated_2.jpg)
-
 ---
 
 ## 🎯 Problem Statement
